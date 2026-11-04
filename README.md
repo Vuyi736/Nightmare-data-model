@@ -25,5 +25,5 @@ Power BI
 Many thanks to Baraa Salkini for his comprehensive teaching!
 
 ## References
-Salkini, B. K.(2026). Nightmare data modelling. YouTube. [](www.youtube.com/@DataWithBaraa)
+Salkini, B. K.(2026). Nightmare data modelling. YouTube. Retrieved from https://www.youtube.com/@DataWithBaraa
 
