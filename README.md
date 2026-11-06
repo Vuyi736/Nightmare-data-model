@@ -10,8 +10,8 @@ This project aims to turn a nightmare data model into a clean and clear model th
 - Best practice before work begins is to make a duplicate folder containing the files to be worked on for the sake of counterchecking in case of mistakes or data loss. This we did.
 - Then create other folders for fact tables and dimension tables as well as supporting tables. Please note that all these actions depend on the nature of the data.
 -  We removed all the 'ill' relationships to make room for the good relationships we made.
--  The first table to be worked on was the dim.customer table. Best practice is to have one place for a type of data, e.g., customer_names should only appear in dim.customer; Although it must be understood that my mentor [Baraa Salkini](www.youtube.com/@DataWithBaraa) explains dimensions as definitions of events that happen in a business while facts are the events themselves. Thus, an order is an event.
--  And so, the beginning;
+-  The first table to be worked on was the dim.customer table. Best practice is to have one place for a type of data, e.g., customer_names should only appear in dim.customer. it must be understood that [Baraa Salkini](www.youtube.com/@DataWithBaraa) explains dimensions as definitions of events that happen in a business while facts are the events themselves. Thus, an order is an event.
+-  And so, 23 table at the beginning;
   
 <img width="862" height="217" alt="Nightmare shot" src="https://github.com/user-attachments/assets/d2e10e64-61f9-4aa3-b674-2c9628781c7a" />
 
@@ -20,7 +20,7 @@ This project aims to turn a nightmare data model into a clean and clear model th
   <img width="836" height="334" alt="Good model" src="https://github.com/user-attachments/assets/765f3f73-b3be-4564-8e3f-5e94e50c51b9" />
 
 ## Tools Used
-Power BI
+Power BI (Power Query)
 
 Many thanks to Baraa Salkini for his comprehensive teaching!
 
