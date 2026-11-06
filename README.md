@@ -1,8 +1,8 @@
 ## Nightmare-data-model
-Turning a chaotic data model into a clean star schema view that improves the workflow for better and fast analysis.
+Turning a chaotic data model into a clean star schema  that improves the workflow for better and fast analysis.
 
 ## Project Overview
-This project aims to turn a nightmare data model into a clean and clear model that has a star schema view with central fact tables connected to dimension tables, dimensions that connect two or more fact tables and clear relationships between tables. The main point is emphasizing how a good data model can make work easier with low chances for outputting wrong numbers. A good data model will handle new data that is added to the database without chaos due to the rules put in place when making it and most importantly, security is guaranteed when put in place.
+This project aims to turn a nightmare data model into a clean and clear model that has a star schema with central fact tables connected to dimension tables, dimensions that connect two or more fact tables and clear relationships between tables. The main point is emphasizing how a good data model can make work easier with low chances for outputting wrong numbers. A good data model will handle new data that is added to the database without chaos due to the rules put in place when making it and most importantly, security is guaranteed when put in place.
 
 ## Process
 - Data loading and walkthrough to understand the grain and decide which data is junk and which is useful.
