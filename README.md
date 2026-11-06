@@ -15,7 +15,7 @@ This project aims to turn a nightmare data model into a clean and clear model th
   
 <img width="862" height="217" alt="Nightmare shot" src="https://github.com/user-attachments/assets/d2e10e64-61f9-4aa3-b674-2c9628781c7a" />
 
-- And the end;
+- And the result;
 
   <img width="836" height="334" alt="Good model" src="https://github.com/user-attachments/assets/765f3f73-b3be-4564-8e3f-5e94e50c51b9" />
 
